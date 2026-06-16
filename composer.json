@@ -31,9 +31,9 @@
 
         "easycorp/easyadmin-bundle": "^4.0",
 
-        "agence-adeliom/easy-common-bundle": "^2.1",
-        "agence-adeliom/easy-fields-bundle": "^2.1",
-        "agence-adeliom/easy-media-bundle": "^2.1"
+        "agence-adeliom/easy-common-bundle": "2.x-dev",
+        "agence-adeliom/easy-fields-bundle": "2.x-dev",
+        "agence-adeliom/easy-media-bundle": "2.x-dev"
     },
     "autoload": {
         "psr-4": {
